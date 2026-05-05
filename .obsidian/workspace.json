@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "f239646a9095b60a",
+    "type": "split",
+    "children": [
+      {
+        "id": "febec2949b966fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "362e9b47e58ab817",
+            "type": "leaf",
+            "state": {
+              "type": "pm-dashboard",
+              "state": {},
+              "icon": "chart-gantt",
+              "title": "Projects"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feeb2f820e37346c",
+    "type": "split",
+    "children": [
+      {
+        "id": "33cd0d309eb877ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c61c3b7d3038b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bdeaba810d6def78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c1341655deba715",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b5532c4c1972255",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa5d3d8c7468b5cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98604064dad9c7e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "8a5545d200c2809c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "9b25197a0f45be37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dc578377a5977e1e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b86882f18010989e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "project-manager:Project manager": false
+    }
+  },
+  "active": "362e9b47e58ab817",
+  "lastOpenFiles": [
+    "Projects/Project.md",
+    "Projects/Theory.md",
+    "Projects/Software.md",
+    "Projects/Main Project_tasks/theory--pd----wptt-u6f52o5o.md",
+    "Projects/Main Project_tasks/theory--wptt----pd-xuq09jkp.md",
+    "Projects/Main Project_tasks/reading--basic-knot-theory-rumkkpvq.md",
+    "Projects/Main Project_tasks/0000-reading--basic-knot-theory-rumkkpvq.md",
+    "Projects/Main Project_tasks/adams,-c.-(ed.).-(2021).-encyclopedia-of-dz1mliki.md",
+    "Projects/Main Project.md",
+    "Projects/Main Project_tasks/new-task-vr1ujozi.md",
+    "Projects/Main Project_tasks",
+    "Projects/Reading_tasks/development-9zts3bph.md",
+    "Projects/Main Project_tasks/reading--software-i32i2xvc.md",
+    "Projects/Main Project_tasks/reading--wptt----pd----wptt-mmary2kw.md",
+    "Projects/Main Project_tasks/software-development-9zts3bph.md",
+    "Projects/Reading_tasks/software-reading-i32i2xvc.md",
+    "Projects/Main Project_tasks/translation-component-wptt----pd-z2ouwzoq.md",
+    "Projects/Software_tasks/translation-component-wptt----pd-(copy)-z2ouwzoq.md",
+    "Projects/Main Project_tasks/translation-component-wptt----pd-2satq9z4.md",
+    "Projects/Main Project_tasks/notation-component-for-pd-4hu1qzr1.md",
+    "Projects/Reading_tasks/reading-i32i2xvc.md",
+    "Projects/Main Project_tasks/kernighan,-b.-w.,-&-ritchie,-d.-m.-(1988-3xd70gvz.md",
+    "Projects/Main Project_tasks/king,-k.-n.-(2008).-c-programming--a-mod-z03q74kd.md",
+    "Projects/Software_tasks/read-about-c-z03q74kd.md",
+    "Projects/Software_tasks",
+    "Notes/Note.md",
+    "Projects/Main Project_tasks/exercise--by-hand-write-the-dt-notation--ofdzjxks.md",
+    "Projects/Main Project_tasks/exercise--by-hand-write-the-pd-notation--y95gwqqf.md",
+    "Projects/Project_tasks",
+    "latex_preamble.sty",
+    "Meeting Minutes/Untitled.base",
+    "Templates",
+    "Questions",
+    "Notes",
+    "Projects/Theory_tasks",
+    "Projects"
+  ]
+}

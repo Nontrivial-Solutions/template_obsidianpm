@@ -1,0 +1,9 @@
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "useTab": false,
+  "spellcheck": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

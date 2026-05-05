@@ -1,0 +1,90 @@
+{
+  "userAdmonitions": {
+    "def": {
+      "type": "def",
+      "color": "255, 184, 108",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "ex": {
+      "type": "ex",
+      "color": "80, 250, 123",
+      "icon": {
+        "name": "glasses",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Example",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "thm": {
+      "type": "thm",
+      "color": "189, 147, 249",
+      "icon": {
+        "name": "book-medical",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Theorem",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "lma": {
+      "type": "lma",
+      "color": "255, 121, 198",
+      "icon": {
+        "name": "book-medical",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Lemma",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "prf": {
+      "type": "prf",
+      "color": "139, 233, 253",
+      "icon": {
+        "name": "pencil-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Proof",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "11.0.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.cf0799"
+}
